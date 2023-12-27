@@ -147,7 +147,7 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg",
+        "https://static.vecteezy.com/system/resources/previews/016/270/671/original/abstract-mesh-hacker-and-shield-cybersecurity-concept-vs-comparison-between-ethical-hacking-ethical-attack-white-hat-hacking-and-system-on-beautiful-blue-background-digital-futuristic-modern-vector.jpg",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       paragraph:
         "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
@@ -156,7 +156,7 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png",
+        "https://th.bing.com/th/id/OIP.4n2CTfPyEssxWTS7ei_B4wAAAA?rs=1&pid=ImgDetMain",
       title:
         "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
       paragraph:
@@ -175,7 +175,7 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+        "https://shahrukhathar.info/wp-content/uploads/2021/01/Cybersecurity-Protection-1536x1024-1.jpg",
       title:
         "How Is Cyber Security Important To Our Lives?",
       paragraph:
