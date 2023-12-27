@@ -108,12 +108,12 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-768x402.png",
-      title: "Top 10 Data Science Tools in 2024",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/08/Data-Science-project-showcase.webp",
+      title: "Extraordinary Data Science Projects for Beginners As Well as Veterans",
       paragraph:
-        "Data Science is an in-demand profession and will continue growing in the coming years. From",
+        "As the demand for data and the people that can conquer it, i.e. Data Scientists",
       readmore: "READ MORE >>",
-      footer: "1 November 2023 . No Comments",
+      footer: "28 August 2023 . No Comments",
     },
     {
       image:
@@ -147,7 +147,7 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-768x432.png",
+        "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       paragraph:
         "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
@@ -156,7 +156,7 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png",
       title:
         "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
       paragraph:
@@ -166,8 +166,8 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-768x432.png",
-      title: "8 Different Types of Cybersecurity and Threats Involved",
+        "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
+      title: "The Ultimate Cybersecurity Roadmap for Beginners",
       paragraph:
         "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
       readmore: "READ MORE >>",
@@ -175,9 +175,9 @@ function App() {
     },
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+        "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
       title:
-        "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
+        "How Is Cyber Security Important To Our Lives?",
       paragraph:
         "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
       readmore: "READ MORE >>",
@@ -188,8 +188,8 @@ function App() {
   const career = [
     {
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description-768x403.jpg",
-      title: "UI/UX Designer Job Description and Roles & Responsibilities",
+        "https://www.guvi.in/blog/wp-content/uploads/2023/11/top_product_based_companies_that_don_t_require_coding.webp",
+      title: "Top 5 Product-Based Companies That Don’t Require Coding",
       paragraph:
         "UI UX is the abbreviated word that’s been rocking the trend over the years, especially",
       readmore: "READ MORE >>",
